@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1601746673 source:c:\users\usuario\documents\faculdade\2_semestre\modelagem3d\trab3-jogovelha\joguindaveia\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+
+1426360528 c:\freeglut\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426360528 c:\freeglut\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1601773071 source:c:\users\usuario\desktop\faculdade\2_semestre\modelagem3d\trab3-jogovelha\joguindaveia\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+
